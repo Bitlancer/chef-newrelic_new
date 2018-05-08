@@ -1,4 +1,3 @@
 # newrelic_new
 
-TODO: Enter the cookbook description here.
-
+Installs newrelic infrastructure agent on legacy Ubuntu 14.04 hosts
